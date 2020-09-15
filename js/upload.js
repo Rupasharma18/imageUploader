@@ -23,7 +23,7 @@ function displayImage() {
     plugins: {
 
       crop: {
-        quickCropKey: 67,
+        quickCropKey: 10,
 
       }
     },
